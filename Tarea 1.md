@@ -15,6 +15,11 @@ Brindar los conocimientos que faciliten la compresion acerca de los temas de not
 
 ![Capitulo 1 - Diagrama de posesión de cuentas (1)](https://user-images.githubusercontent.com/106253679/170405885-c301938f-ddde-408c-836e-364e062de453.png)
 
+#**Capitulo 2**
+
+![capitulo 2](https://user-images.githubusercontent.com/106253679/170410468-7d6250a8-89af-4246-9fea-074d87059f86.png)
+
+
 **Resolucion de Ejercicios**
 
 
