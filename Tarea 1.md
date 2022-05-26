@@ -13,18 +13,20 @@ Brindar los conocimientos que faciliten la compresion acerca de los temas de not
 
 **Marco Teorico**
 
-![Capitulo 1 - Diagrama de posesión de cuentas](https://user-images.githubusercontent.com/106253679/170275860-02fdf2b5-840f-4753-9088-f6fe11d5f8a5.png)
-
+![Capitulo 1 - Diagrama de posesión de cuentas (1)](https://user-images.githubusercontent.com/106253679/170405885-c301938f-ddde-408c-836e-364e062de453.png)
 
 **Resolucion de Ejercicios**
+
 
 Capítulo 1:
 a). Notación científica:
 
 2. Exprese cada número fraccionario en notación científica: 
+
  ![2](https://user-images.githubusercontent.com/106253679/170389417-ab4aaedc-705a-4b32-b05c-86c1a5091993.png)
 
 4. Exprese cada uno de los números siguientes en notación científica:
+
  ![4 1](https://user-images.githubusercontent.com/106253679/170389468-940d58bc-d259-405a-bd42-5d547c15cdc8.png)
 
 6. Exprese cada uno de los números siguientes como un número decimal regular:
@@ -173,6 +175,7 @@ https://www.youtube.com/watch?v=Gd21fR&t=360s
 CONCLUSIONES
 
 Con la resolucion de los ejercicios planteados se logro fortalecer los conocimientos mediante la aplicacion de la Ley de Ohm, notacion cientifica y una mejor comprension de los conceptos de voltaje,corriente y resistencia.
+
 **6.- Bibliografía:**
 
 Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
